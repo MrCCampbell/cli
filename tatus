@@ -1,0 +1,10 @@
+[1mdiff --git a/story.txt b/story.txt[m
+[1mindex e652dfd..a789277 100644[m
+[1m--- a/story.txt[m
+[1m+++ b/story.txt[m
+[36m@@ -1,2 +1,2 @@[m
+ Once upon a time[m
+[31m-there was a wicked witch[m
+\ No newline at end of file[m
+[32m+[m[32mthere was a wicked witch who thought she was queen of the land.[m
+\ No newline at end of file[m
